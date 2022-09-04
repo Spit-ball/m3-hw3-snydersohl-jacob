@@ -1,7 +1,7 @@
+# m3-hw3-snydersohl-jacob
+
 - [m3-hw3-snydersohl-jacob](#m3-hw3-snydersohl-jacob)
   - [Screenshots of SEO/Accessibility Findings via Lighthouse](#screenshots-of-seoaccessibility-findings-via-lighthouse)
-
-# m3-hw3-snydersohl-jacob
 
 ## Screenshots of SEO/Accessibility Findings via Lighthouse
 
